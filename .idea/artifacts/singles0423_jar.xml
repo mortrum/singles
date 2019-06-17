@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="singles0423:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/singles0423_jar</output-path>
+    <root id="archive" name="singles0423.jar">
+      <element id="module-output" name="singles0423" />
+    </root>
+  </artifact>
+</component>
